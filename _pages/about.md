@@ -8,13 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>parkparkmk@gmail.com</p>
-    <p>Seoul, South Korea</p>
 
 news: true
 selected_papers: true
 social: true
+email: parkparkmk@gmail.com
+github_username: MinkyuPark0816
+linkedin_username: minkyu-park-9b6547342
+scholar_userid: FioNFM8AAAAJ
 ---
 
 > *Hitting the Memory Wall*
@@ -22,3 +23,5 @@ social: true
 I am a research intern in the **CSArch Lab at Korea University** (advised by Prof. Gunjae Koo), preparing to begin my M.S. degree in Spring 2027. My research interests include **computer architecture, memory systems, and energy-efficient system design**, with a focus on reducing the cost of data movement in modern computing systems.
 
 Previously, I was a research intern at the **PSAL Lab, POSTECH** (advised by Prof. Gwangsun Kim), where I extended PyTorchSim with new MLIR-based operator support. Before that, I studied Edge AI power modeling at the **AIAC Lab, Hallym University** (advised by Prof. Jeong-Gun Lee).
+
+
