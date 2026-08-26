@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>parkparkmk@gmail.com</p>
     <p>Seoul, South Korea</p>
- 
+
 news: true
 selected_papers: true
 social: true
