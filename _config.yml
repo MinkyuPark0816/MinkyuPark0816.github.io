@@ -382,7 +382,7 @@ scholar:
   style: apa
   locale: en
 
-  source: bibliography
+  source: _bibliography
   bibliography: papers.bib
   bibliography_template: bib
 
