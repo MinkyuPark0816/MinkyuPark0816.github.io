@@ -17,7 +17,7 @@ selected_papers: true
 social: true
 ---
 
-> 'Hitting the Memory Wall'
+> *Hitting the Memory Wall*
 
 I am a research intern in the **CSArch Lab at Korea University** (advised by Prof. Gunjae Koo), preparing to begin my M.S. degree in Spring 2027. My research interests include **computer architecture, memory systems, and energy-efficient system design**, with a focus on reducing the cost of data movement in modern computing systems.
 

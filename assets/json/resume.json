@@ -30,7 +30,6 @@
   "education": [
     {
       "institution": "Hallym University",
-      "location": "Chuncheon, South Korea",
       "area": "Big Data",
       "studyType": "B.S.",
       "startDate": "2020-03-01",
@@ -50,7 +49,6 @@
       "position": "Research Intern",
       "url": "https://csarch.korea.ac.kr",
       "startDate": "2026-08-01",
-      "endDate": "",
       "summary": "Advisor: Prof. Gunjae Koo.",
       "highlights": [
         "Research intern working on computer architecture, memory systems, and energy-efficient system design."
@@ -83,18 +81,16 @@
   ],
   "publications": [
     {
-      "name": "Predicting Delay, Power, and Energy of Edge AI Inference with Ridge Regression",
+      "title": "Predicting Delay, Power, and Energy of Edge AI Inference with Ridge Regression",
       "publisher": "IEEE International Conference on Consumer Electronics (ICCE 2026)",
       "releaseDate": "2026",
-      "summary": "First-author paper proposing a ridge-regression framework for predicting delay, power, and energy of edge AI inference.",
-      "website": ""
+      "summary": "First-author paper proposing a ridge-regression framework for predicting delay, power, and energy of edge AI inference."
     },
     {
-      "name": "Edge형 GPU 시스템에서 딥러닝 모델의 성능 및 에너지 소모 특성 분석",
-      "publisher": "한국정보처리학회 학술대회논문집 (ASK 2025), Vol.32 No.1",
+      "title": "Performance and Energy Consumption Analysis of Deep Learning Models on Edge GPU Systems",
+      "publisher": "Proceedings of the Annual Conference of KIPS (ASK 2025), Vol.32 No.1",
       "releaseDate": "2025",
-      "summary": "Analysis of performance and energy consumption characteristics of deep learning models on edge GPU systems (Jetson Orin Nano).",
-      "website": ""
+      "summary": "Analysis of performance and energy consumption characteristics of deep learning models on edge GPU systems (Jetson Orin Nano)."
     }
   ],
   "awards": [
@@ -115,35 +111,10 @@
       "date": "2024-08",
       "awarder": "2024 SW-Central University Digital Competition, hosted by the Ministry of Science and ICT",
       "summary": ""
-    },
-    {
-      "title": "Innovation Award",
-      "date": "2025-09",
-      "awarder": "2025 University Startup Idea Challenge",
-      "summary": ""
-    },
-    {
-      "title": "Top Team Selection",
-      "date": "2025-09",
-      "awarder": "Hana Social Venture University",
-      "summary": ""
-    },
-    {
-      "title": "Honorable Mention",
-      "date": "2025-08",
-      "awarder": "2025 Northeast ICT Innovation Square Startup Idea Competition, hosted by the Ministry of Science and ICT",
-      "summary": ""
-    },
-    {
-      "title": "Grand Prize",
-      "date": "2025-06",
-      "awarder": "13th Pan-Government Public Data Utilization Startup Competition, Gangwon Regional Preliminary",
-      "summary": ""
     }
   ],
-  "skills": [
+  "Research Interests": [
     {
-      "name": "Research Interests",
       "keywords": [
         "Computer Architecture",
         "Memory Systems",
@@ -160,20 +131,6 @@
     {
       "language": "Korean",
       "fluency": "Native"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Startup Team CAMORIX",
-      "startDate": "2025-01",
-      "endDate": "",
-      "description": "Developed YOLO-based models and enabled real-time edge inference on Jetson Orin Nano for a fall detection system in elderly care monitoring."
-    },
-    {
-      "name": "SW Capstone Design Team",
-      "startDate": "2024-08",
-      "endDate": "2024-12",
-      "description": "Evaluated a custom C/CUDA-based deep learning framework by implementing and benchmarking fire detection, vehicle CAN data classification, and pill image classification models."
     }
   ]
 }
