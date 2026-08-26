@@ -21,7 +21,7 @@ scholar_userid: FioNFM8AAAAJ
 
 > *Hitting the Memory Wall*
 
-I am a research intern in the **CSArch Lab at Korea University** (advised by Prof. Gunjae Koo), preparing to begin my M.S. degree in Spring 2027. My research interests include **computer architecture, memory systems, and energy-efficient system design**, with a focus on modern computing systems.
+I am a research intern in the **CSArch Lab at Korea University** (advised by Prof. Gunjae Koo), preparing to begin my M.S. degree in Spring 2027. My research interests include **computer architecture, memory systems, and energy-efficient system design**.
 
 Previously, I was a research intern at the **PSAL Lab, POSTECH** (advised by Prof. Gwangsun Kim), where I extended PyTorchSim with new MLIR-based operator support. Before that, I worked on Edge AI power modeling at the **AIAC Lab, Hallym University** (advised by Prof. Jeong-Gun Lee).
 
