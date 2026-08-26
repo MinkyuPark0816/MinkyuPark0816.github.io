@@ -1,0 +1,8 @@
+# _data/socials.yml
+
+email: parkparkmk@gmail.com
+github_username: MinkyuPark0816
+linkedin_username: minkyu-park-9b6547342
+scholar_userid: FioNFM8AAAAJ
+cv_pdf: /assets/pdf/Minkyu_Park_CV2.pdf  # CV 다운로드 링크 (이미 쓰고 계신 경로면 그대로)
+rss_icon: false                          # RSS 아이콘 숨기고 싶으면 false 또는 줄 삭제

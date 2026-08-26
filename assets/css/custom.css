@@ -1,0 +1,8 @@
+/* assets/css/custom.css */
+
+:root {
+  /* Korea University Crimson (PANTONE 202C, RGB 139,0,41) */
+  --global-theme-color: #8B0029;
+  --global-hover-color: #8B0029;
+  --global-accent-color: #F5E6D8;  /* 아주 옅은 베이지 (배경용) */
+}

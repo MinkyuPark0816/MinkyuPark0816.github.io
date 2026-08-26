@@ -84,7 +84,7 @@
       "title": "Performance and Energy Consumption Analysis of Deep Learning Models on Edge GPU Systems",
       "publisher": "Proceedings of the Annual Conference of KIPS (ASK 2025), Vol.32 No.1",
       "releaseDate": "2025",
-      "summary": "Analysis of performance and energy consumption characteristics of deep learning models on edge GPU systems (Jetson Orin Nano)."
+      "summary": "Analysis of performance and energy consumption characteristics of deep learning models on edge GPU systems."
     }
   ],
   "awards": [
