@@ -5,8 +5,8 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Minkyu_Park_CV2.pdf # you can also use external links here
-cv_format: jsonresume  # options: rendercv, jsonresume
-description: 
+cv_format: jsonresume # options: rendercv, jsonresume
+description:
 toc:
   sidebar: left
 ---

@@ -6,7 +6,7 @@
 first_name: Minkyu
 middle_name: ""
 last_name: Park
-title: Minkyu Park              # 사이트 상단 및 브라우저 탭 제목
+title: Minkyu Park # 사이트 상단 및 브라우저 탭 제목
 
 # ------------------------------------------------------------
 # Site description & metadata
@@ -17,8 +17,8 @@ description: >-
   and energy-efficient system design. He is preparing to begin his M.S.
   studies in Spring 2027.
 
-url: "https://minkyupark0816.github.io"   # 본인 GitHub Pages 도메인으로 교체
-baseurl: ""                                # 레포지토리 이름이 예: /al-folio 라면 "/al-folio"로 설정
+url: "https://minkyupark0816.github.io" # 본인 GitHub Pages 도메인으로 교체
+baseurl: "" # 레포지토리 이름이 예: /al-folio 라면 "/al-folio"로 설정
 
 # ------------------------------------------------------------
 # Author / contact
@@ -30,21 +30,19 @@ email: parkparkmk@gmail.com
 # Social links
 # ------------------------------------------------------------
 github_username: MinkyuPark0816
-scholar_userid: "FioNFM8AAAAJ"            # Google Scholar 프로필 생성 후 ID 입력 권장
-linkedin_username: "minkyu-park-9b6547342"         # 있다면 입력
+scholar_userid: "FioNFM8AAAAJ" # Google Scholar 프로필 생성 후 ID 입력 권장
+linkedin_username: "minkyu-park-9b6547342" # 있다면 입력
 
 # ------------------------------------------------------------
 # Footer
 # ------------------------------------------------------------
 footer_text: >
   Hitting the Memory Wall: Implications of the Obvious
-  
 
 # ------------------------------------------------------------
 # Contact / footer icons
 # ------------------------------------------------------------
 contact_note: >
-
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -435,7 +433,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit:  # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.

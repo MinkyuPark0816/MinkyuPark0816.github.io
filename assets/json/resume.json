@@ -44,9 +44,7 @@
       "url": "https://csarch.korea.ac.kr",
       "startDate": "2026-08-01",
       "summary": "Advisor: Prof. Gunjae Koo.",
-      "highlights": [
-        "Research intern working on computer architecture, memory systems, and energy-efficient system design."
-      ]
+      "highlights": ["Research intern working on computer architecture, memory systems, and energy-efficient system design."]
     },
     {
       "name": "PSAL, POSTECH",
@@ -109,12 +107,7 @@
   ],
   "Research Interests": [
     {
-      "keywords": [
-        "Computer Architecture",
-        "Memory Systems",
-        "Memory-Centric Computing",
-        "Energy Efficient Systems"
-      ]
+      "keywords": ["Computer Architecture", "Memory Systems", "Memory-Centric Computing", "Energy Efficient Systems"]
     }
   ],
   "languages": [
