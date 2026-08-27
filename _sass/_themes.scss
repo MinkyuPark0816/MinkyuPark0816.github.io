@@ -1,0 +1,9 @@
+/* 라이트 모드 포인트 색 */
+:root {
+  --global-theme-color: #862633;
+}
+
+/* 다크 모드 포인트 색 */
+html[data-theme="dark"] {
+  --global-theme-color: #2698ba;
+}
