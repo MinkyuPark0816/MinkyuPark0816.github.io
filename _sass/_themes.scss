@@ -1,9 +1,47 @@
-/* 라이트 모드 포인트 색 */
+/* 라이트 모드: 고려대 톤 (따뜻한 아이보리 + Crimson 포인트) */
 :root {
+  /* 전체 배경색: 약간 아이보리 톤 */
+  --global-bg-color: #f5f0eb;
+
+  /* 기본 텍스트색은 너무 밝지 않은 진한 회색 */
+  --global-text-color: #222222;
+  --global-text-color-light: #7a7a7a;
+
+  /* 포인트 / 링크 / 아이콘 색: 고려대 Crimson */
   --global-theme-color: #862633;
+  --global-hover-color: #862633;
+  --global-hover-text-color: #ffffff;
+
+  /* 카드/박스 배경은 흰색 유지해서 가독성 확보 */
+  --global-card-bg-color: #ffffff;
+
+  /* 푸터를 고려대 와인색 배경 + 밝은 텍스트로 */
+  --global-footer-bg-color: #862633;
+  --global-footer-text-color: #ffffff;
+  --global-footer-link-color: #f5f0eb;
 }
 
-/* 다크 모드 포인트 색 */
+/* 다크 모드: 진짜 어두운 배경 + 밝은 텍스트 */
 html[data-theme="dark"] {
-  --global-theme-color: #2698ba;
+  color-scheme: dark;
+
+  /* 전체 배경: 아주 짙은 회색 */
+  --global-bg-color: #121212;
+
+  /* 텍스트는 밝은 회색 계열 */
+  --global-text-color: #e0e0e0;
+  --global-text-color-light: #aaaaaa;
+
+  /* 다크 모드 포인트 색: Crimson 유지해도 되고, 원래 cyan을 써도 됨 */
+  --global-theme-color: #862633;
+  --global-hover-color: #862633;
+  --global-hover-text-color: #ffffff;
+
+  /* 카드/박스는 배경보다 약간 밝은 짙은 회색 */
+  --global-card-bg-color: #1f1f1f;
+
+  /* 푸터는 배경과 비슷한 톤으로 */
+  --global-footer-bg-color: #1c1c1d;
+  --global-footer-text-color: #e0e0e0;
+  --global-footer-link-color: #ffffff;
 }
