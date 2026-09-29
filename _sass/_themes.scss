@@ -91,8 +91,8 @@ html[data-theme="dark"] {
   --global-bg-color: #121212; /* 전체 배경: 아주 짙은 회색 */
   --global-text-color: #e0e0e0; /* 텍스트는 밝은 회색 계열 */
   --global-text-color-light: #aaaaaa;
-  --global-theme-color: #862633; /* 다크에서도 Crimson 유지 */
-  --global-hover-color: #862633;
+  --global-theme-color: #d4596a; /* 다크용 밝은 Crimson: #862633은 어두운 배경에서 거의 안 보인다 */
+  --global-hover-color: #d4596a;
   --global-hover-text-color: #ffffff;
   --global-card-bg-color: #1f1f1f; /* 카드/박스는 배경보다 약간 밝게 */
   --global-footer-bg-color: #1c1c1d; /* 푸터는 배경과 비슷한 톤 */
@@ -226,4 +226,23 @@ html[data-theme-setting="light"] {
   .navbar .navbar-menu-list .toggle-container {
     margin-left: 0.75rem;
   }
+}
+
+/* 모바일(576px 미만)에서 프로필 사진이 화면 폭 100%로 커지는 것을 막는다.
+   가운데 정렬 + 화면 폭의 55%, 최대 240px. 숫자만 바꾸면 크기를 조절할 수 있다. */
+@media (max-width: 575.98px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    width: 55%;
+    max-width: 240px;
+    margin: 0 auto 1.5rem !important;
+  }
+}
+
+/* CV: Experience·Education의 날짜 칸은 젬이 .date-column(폭 75px + 왼쪽/위로 이동)을
+   붙여서 Awards·Publications와 배지·점 위치가 달라 보인다. 이동을 없애 같은 모양으로 맞춘다. */
+.list-group-item .date-column {
+  width: auto;
+  transform: none;
 }
